@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="giphy.gif" alt="My GIF" width="600">
+<p style="text-align:center;">
+  <img src="https://github.com/user-attachments/assets/725d2ccd-ada7-4731-a7ea-2960007cfa70" alt="My GIF" width="600">
 </p>
+
+
+![giphy (2)](https://github.com/user-attachments/assets/725d2ccd-ada7-4731-a7ea-2960007cfa70)
 
 ---
 
