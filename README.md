@@ -1,9 +1,6 @@
-<p style="text-align:center;">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/725d2ccd-ada7-4731-a7ea-2960007cfa70" alt="My GIF" width="600">
 </p>
-
-
-![giphy (2)](https://github.com/user-attachments/assets/725d2ccd-ada7-4731-a7ea-2960007cfa70)
 
 ---
 
@@ -21,5 +18,3 @@
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" width="36" height="36" alt="Java" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" width="36" height="36" alt="Python" /></a>
 </p>
-
----
