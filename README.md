@@ -1,10 +1,4 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7c5fc171-b2eb-424b-9356-6df2edc2b9c5" alt="My GIF" width="600">
-</p>
-
----
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&pause=1000&color=7D7C7C&center=true&vCenter=true&random=false&width=900&height=40&lines=Haii,+Im+Dhicky+Haryadi+Supriyono;A+Student+at+Esa+Unggul+University" alt="Typing SVG" />
   </a>
